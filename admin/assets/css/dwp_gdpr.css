@@ -1,0 +1,83 @@
+.dwp_gdpr-tema .container-dwp_gdpr{
+	display: flex;
+    flex-direction: column;
+    margin: 0 auto;
+    max-width: 970px;
+    padding: 24px 16px;
+    align-items: center;
+    flex-direction: row;
+}
+.dwp_gdpr-tema .container-dwp_gdpr p{
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 1.6;
+    margin: 0;
+}
+.container-dwp_gdpr .rock_button{
+	background-color: #0069ff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    display: block;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 1;
+    padding: 16px 32px 15px;
+    text-align: center;
+}
+.dwp_gdpr-front{
+	box-sizing: border-box;
+    left: 0;
+    position: fixed;
+    right: 0;
+    z-index: 1000;
+}
+.dwp_gdpr-tema-front-fundo{
+    bottom: 0;
+}
+.dwp_gdpr-tema-front{
+    top: 0;
+}
+.dwp_gdpr-tema a{
+	border-bottom: 1px dotted hsla(0,0%,100%,.6);
+	text-decoration: none;
+}
+.dwp_gdpr-tema a:hover{
+	border-bottom: 1px dotted hsla(0, 0%, 2%, 0.6);
+}
+.dwp_gdpr_ocean, .dwp_gdpr-tema{
+	background-color: #3185fc;
+	border: 5px solid #403f4c;
+}
+.dwp_gdpr_ocean p, .dwp_gdpr_ocean a{
+	color: #0b4f6c;
+}
+.dwp_gdpr_ocean .rock_button, .dwp_gdpr-tema .rock_button{
+	background-color: #403f4c;
+	color: #fff;
+}
+.dwp_gdpr_light{
+	background-color: #fbfbff;
+	border: 5px solid #01baef;
+}
+.dwp_gdpr_light p, .dwp_gdpr_light a{
+	color: #0b4f6c;
+}
+.dwp_gdpr_light a{
+	border-bottom: 1px dotted hsla(0, 0%, 2%, 0.6);
+}
+.dwp_gdpr_light .rock_button{
+	background-color: #01baef;
+	color: #fff;
+}
+.dwp_gdpr_forest{
+	background-color: #5ef38c;
+	border: 5px solid #266447;
+}
+.dwp_gdpr_forest p, .dwp_gdpr_forest{
+	color: #2b9720;
+}
+.dwp_gdpr_forest .rock_button{
+	background-color: #266447;
+	color: #fff;
+}

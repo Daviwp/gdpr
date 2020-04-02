@@ -1,0 +1,107 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DWP - GDPR\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-03-13 20:26+0000\n"
+"PO-Revision-Date: 2020-03-13 20:30+0000\n"
+"Last-Translator: admin <davi.wordpress@gmail.com>\n"
+"Language-Team: English (United States)\n"
+"Language: en_US\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.3.1; wp-5.3.2"
+
+#: admin/includes/admin-front.php:11
+msgid "Configurações"
+msgstr "Settings"
+
+#. Author of the plugin
+msgid "Daviwp"
+msgstr "Daviwp"
+
+#: admin/includes/admin-back.php:70
+msgid "Digite sua mensagem"
+msgstr "Enter your message"
+
+#. Name of the plugin
+msgid "DWP - GDPR"
+msgstr ""
+
+#: admin/settings.php:8
+msgid "DWP GDPR"
+msgstr ""
+
+#: admin/includes/admin-back.php:31
+msgid "Escolha posição da mensagem"
+msgstr ""
+"Choose message position\n"
+
+#: admin/includes/admin-front.php:94
+msgid "Forest"
+msgstr ""
+
+#: admin/includes/admin-front.php:73
+msgid "Fundo"
+msgstr "Footer"
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "https://daviwp.site/"
+msgstr ""
+
+#: admin/includes/admin-front.php:91
+msgid "Light"
+msgstr ""
+
+#: admin/includes/admin-back.php:18
+msgid "Mostrar mensagem"
+msgstr "Show message"
+
+#: admin/includes/admin-back.php:57
+msgid "Nome do botão"
+msgstr "Button name"
+
+#: admin/includes/admin-front.php:54
+msgid "Não"
+msgstr "Not"
+
+#: admin/includes/admin-front.php:88
+msgid "Ocean"
+msgstr ""
+
+#: admin/includes/admin-back.php:85
+msgid "OK"
+msgstr ""
+
+#: admin/includes/admin-front.php:19
+msgid "Preview"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Regulations that require sites in europe to display a message of consent "
+"stating that the website uses cookies."
+msgstr ""
+
+#: admin/includes/admin-front.php:50
+msgid "Sim"
+msgstr "Yes"
+
+#: admin/includes/admin-back.php:44
+msgid "Temas"
+msgstr "Themes"
+
+#: admin/includes/admin-front.php:69
+msgid "Topo"
+msgstr "Header"
+
+#: admin/includes/admin-back.php:88
+msgid ""
+"We use cookies to provide our services and for analytics and marketing. To "
+"find out more about our use of cookies, please see our <a href=\"https:"
+"//stage.rockcontent.com/\">Privacy Policy</a>. By continuing to browse our "
+"website, you agree to our use of cookies."
+msgstr ""
